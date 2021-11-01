@@ -5,13 +5,9 @@ Emotion Recognition For Counselling
 * Text data is taken as input from the user and is used it to analyse the emotions based on the text input by the user . In the initial stage of the model we keep it simple to analyse two emotions i.e. stress and not stress based on our dataset .
 ## Objective
 * To build a emotion recognition system for counselling.
-## System/Software Architecture
-
 ## Dataset : Dreaddit dataset
 * The dataset Dreaddit is a new text corpus of lengthy multi-domain social media data for the identification of various emotions. The dataset consists of 190K posts from five different categories of Reddit communities .
 * We use the ‘Text’ and ‘Label’ column for our model .
-## Example from dataset
-
 ## Training and Test Set 
 * This results in a total of 2,838 train data points and 715 test data points which can be used for training and testing the model. 
 ## Techniques Used
