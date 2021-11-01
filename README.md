@@ -11,12 +11,12 @@ Emotion Recognition For Counselling
 ## Training and Test Set 
 * This results in a total of 2,838 train data points and 715 test data points which can be used for training and testing the model. 
 ## Techniques Used
-* Text Preprocessing
-         1. Taking text in range of a-z or A-Z 
-         2. Lowering the words 
-         3. Stopwords Removal
-         4. Lemmatization
-         5. Stemming 
+* Text Preprocessing  
+         1. Taking text in range of a-z or A-Z   
+         2. Lowering the words   
+         3. Stopwords Removal  
+         4. Lemmatization  
+         5. Stemming   
 * Creating Bag of Words
 * Training the Model – Applied various classification algorithms like SVM , Naïve Bayes , Random Forest , Logistic Regression , K-NN , Decision Tree
 * Tuning the Hyperparameters
